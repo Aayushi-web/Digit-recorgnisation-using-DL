@@ -78,7 +78,7 @@ MaxPooling layers for down-sampling
 
 Dense layers for classification
 
-# Example Summary:
+Example Summary:
 
 Layer (type)                 Output Shape              Param #   
 ================================================================
